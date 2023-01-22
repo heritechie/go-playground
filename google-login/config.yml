@@ -1,0 +1,6 @@
+port: 8001
+logger-output-path: ""
+oauthStateString: "randomstring"
+google:
+  clientID: "389343689197-0qmh88e8lg2099lq8b9cg7u8a1a65dq6.apps.googleusercontent.com"
+  clientSecret: "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"
